@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+motor
+beanie
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+python-multipart
